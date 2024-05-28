@@ -1,3 +1,11 @@
+'''
+    Bastida Vargas Karen Mariel
+    Hernández Olvera Humberto Ignacio
+    Mondragón Hernández Andrea Quetzalli
+    Rodriguez Rezago Guadalupe Itzel
+    Zárate García Zuriel
+'''
+
 import oqs
 import time
 from pprint import pprint
