@@ -1,7 +1,7 @@
 # pqc-proyecto2
 En este repositorio se encuentra la implementación de los algoritmos pos-cuánticos ML-KEM, ML-DSA y SLH-DSA, utilizando la biblioteca liboqs y el lenguaje de programación python.
 
-Nuestro está conformado por:
+Nuestro equipo está conformado por:
 * Bastida Vargas Karen Mariel
 * Hernández Olvera Humberto Ignacio
 * Mondragón Hernández Andrea Quetzalli
@@ -60,3 +60,5 @@ Ahora se procede a ejecutar el archivo con la instrucción
 En la salida que se obtiene, se observa que se ejecuta primero una función en donde está implementado el esquema ML-KEM, posteriormente viene la ejecución de una función que implementa el esquema de firma ML-DSA, y finalmente se hace la ejecución de la función que implementa el esquema de firma SLH-DSA.
 
 Al final se muestra el tiempo de ejecución de cada uno de las funciones, para poder visualizar cuanto tiempo se están tardando en ejecutar y posteriormente hacer una comparación entre estos algoritmos.
+
+Toda la información se encuentra basada en el proyecto de código abierto Open Quantum Safe https://openquantumsafe.org
