@@ -1,9 +1,14 @@
 # pqc-proyecto2
-Archivos del proyecto 2 de criptografia
+En este repositorio se encuentra la implementación de los algoritmos pos-cuánticos ML-KEM, ML-DSA y SLH-DSA, utilizando la biblioteca liboqs y el lenguaje de programación python.
+
+Nuestro está conformado por:
+* Bastida Vargas Karen Mariel
+* Hernández Olvera Humberto Ignacio
+* Mondragón Hernández Andrea Quetzalli
+* Rodriguez Rezago Guadalupe Itzel
+* Zárate García Zuriel
 
 ## Instalación
-
----
 
 Para poder hacer la ejecución del proyecto, se requiere hacer la instalación del programa CMAKE, para lo cual se debe ir a la página: https://cmake.org/download/. 
 Elegir el sistema operativo en donde se vaya a revisar el código e instalar el programa.
